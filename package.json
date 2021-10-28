@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/bernardleanse/thermostat/issues"
   },
-  "homepage": "https://github.com/bernardleanse/thermostat#readme"
+  "homepage": "https://github.com/bernardleanse/thermostat#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
